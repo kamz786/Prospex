@@ -1,11 +1,14 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/prospex.png"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: "The Underground Youth Centre, Piper Cl, London, N7 8TQ"
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Mon, Tues & Thurs: 09:00-17:00"
+    text2: "Wednesday: 09:00–17:30"
+    text3: "Friday: 09:00–19:30"
+    text4: "We’re closed during the weekend."
 ---
 
 We’d love to get in touch with you and hear your ideas and
@@ -14,6 +17,6 @@ is valuable for us.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
+You can also use the form below for any inquiries about charity event
 availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+with our charity team. 

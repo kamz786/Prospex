@@ -85,3 +85,74 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+/*Donate Widget CSS*/
+.donate-widget {
+  position: fixed;
+  top: calc(50% - 1.75rem);
+  right: 0;
+  z-index: 10;
+}
+
+.donate-widget a {
+  text-decoration: none;;
+  right: 0;
+  color: white;
+  font-size: 1.0rem;
+  line-height: 0.8;
+  padding: 0.5rem;
+  background: #000000;
+  border-radius: 0.5rem 0 0 0.5rem;
+}
+
+.donate-widget a:hover {
+  text-decoration: none;
+  background: rgba(50, 50, 50, 0.7);
+}
+
+.nav-toggle {
+display: none;
+}
+
+
+@media(max-width: 40em) {
+
+  body.nav-open {
+overflow:hidden;
+  }
+
+  .nav-box {
+    position: fixed;
+    top: 4.2rem;
+    background: black;
+    height: 35%;
+    width: 100%;
+    padding: 1rem;
+    color: white;
+    transition: all 1.25s ease;
+    z-index:999;
+  }
+
+  .nav-box.open {
+    right: 0;
+  }
+
+  .nav-box.closed {
+    right: -30rem;
+  }
+
+  .nav-toggle {
+    display: block;
+    padding: 1rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    position: absolute;
+    top: -25;
+    right: 0;
+    border:none;
+    cursor: pointer;
+    z-index: 1000;
+    color: var(--primary);
+    font-style: normal;
+  }
+}

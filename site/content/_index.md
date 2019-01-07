@@ -1,20 +1,23 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Realising young people's potential"
+subtitle:
+image: /img/Banner 1.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Challenge
+    text1: "There are two sides to Islington. The leafy mansions of the upper middle classes – and the low-income households in which a third of under-sixteens live. In one in three Islington households, no-one is employed. Over half of single parents in the borough – mostly mothers – are out of work. Just a fifth are in full employment, half the national average. The borough has the highest recorded prevalence of depression and severe mental illness in London."
+
+    text2: "It is highly overpopulated, with triple as many people per square metre as the average London borough, and the second lowest proportion of green space. It’s also full of young people with drive, creativity, ideas – and enormous potential. But without safe green spaces, playgrounds, or youth centres, they have nowhere to grow. And without the financial freedom to travel to other areas of the city, they cannot benefit from better local provisions elsewhere. We don’t want their energy and ambitions to go to waste."
+
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
+    heading: "What we do"
+    text: "Young people want places to go. In Islington, they have a number of options, but few of them are free. Community centres in estates have been closed, or are being redeveloped. Many don’t feel safe travelling to the places which remain open because of high incidence of crime or antisocial behaviour. Prospex gives them somewhere to learn, play, or just relax – closer to home."
+
+programmes:
+    - image: img/leader.jpg
+      text: "Our Street Teams exist to make sure young people are safe and well, wherever they are. If they’d rather not come to the centre, our staff check in on them in their local area. This builds a mutual trust and allows positive relationships to be formed. Our team become familiar faces, and get to know the wider community as well as the young people themselves."
+    - image: img/birthday.jpg
+      text: "We allocate young people a Dedicated One2One worker based on their needs and circumstances. Our One2one work could range from a few sessions helping a young person complete a application form, to many years working with them and their families to help overcome a range of complex issues which, together, can have a serious impact on their wellbeing."
+donations:
+    heading: Donations
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
-
