@@ -19,5 +19,5 @@ programmes:
       text: "We allocate young people a Dedicated One2One worker based on their needs and circumstances. Our One2one work could range from a few sessions helping a young person complete a application form, to many years working with them and their families to help overcome a range of complex issues which, together, can have a serious impact on their wellbeing."
 donations:
     heading: Donations
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: We are a local community charity, dedicated to helping the young people within the Borough of Islington, working with young people who may be at risk of falling into a lifestyle of knife crime, drugs and violence, creating opportunities to realise and fulfill their potential. Our service takes young people on their own Prospex journey with a commitment to always putting young people first. We offer street outreach, junior and senior sessions, girls club, holiday schemes and accredited learning.
 ---

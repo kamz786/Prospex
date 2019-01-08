@@ -7,22 +7,21 @@ description: >-
 
 intro:
   blurbs:
-    - image: /img/test.png
+    - image: /img/bus.jpg
       text: >
-        Inclusive: Constant respect for all young people, irrespective of culture, gender or creed.
-    - image: /img/test2.png
+        Vision: We aim to support young people to reach their full potential allowing them be themselves and engage in positive activities. We believe that every child deserves to live a life filled with fun and enriching experiences.
 
+    - image: /img/museum.jpg
       text: >
-        Potential: Equip young people to build their potential. Email us or call the store for details.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Positive Living: Be it the food they eat or the way they communicate with their peers, we believe in
-        creating a healthy lifestyle for our young people.
+        Values: Constant respect for all young people, irrespective of culture, gender or creed. We believe that our role is to support parents in getting the best outcomes for their children.
 
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/leader.jpg
       text: >
-        Family Value: We believe that our role is to support parents in getting the best outcomes for their
-        children.
+        Positive Living: Be it the food they eat or the way they communicate with their peers, we believe in creating a healthy lifestyle for our young people. We have a ‘Healthy Bodies, Healthy Minds’ approach – stimulating both the physical body, and the mind. 
+
+    - image: /img/bbq.jpg
+      text: >
+        Our youth hubs offer a safe space for young people to meet new people, learn new skills, and enjoy themselves in an environment designed to promote positive wellbeing.
 
   heading: Our Values
   description: >
