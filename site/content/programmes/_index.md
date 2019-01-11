@@ -17,7 +17,7 @@ intro:
 
     - image: /img/leader.jpg
       text: >
-        Positive Living: Be it the food they eat or the way they communicate with their peers, we believe in creating a healthy lifestyle for our young people. We have a ‘Healthy Bodies, Healthy Minds’ approach – stimulating both the physical body, and the mind. 
+        Positive Living: Be it the food they eat or the way they communicate with their peers, we believe in creating a healthy lifestyle for our young people. We have a ‘Healthy Bodies, Healthy Minds’ approach – stimulating both the physical body, and the mind.
 
     - image: /img/bbq.jpg
       text: >
@@ -45,7 +45,7 @@ testimonials:
   - author: Omass Noman
     quote: >-
       Prospex has shown me how to get the best out of life and have helped me to achieve my goals.
-full_image: /img/meet the team.png
+full_image: /img/meetTheTeam.png
 pricing:
   heading: What we offer
   description: >-

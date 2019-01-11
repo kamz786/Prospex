@@ -1,7 +1,7 @@
 ---
 title: "Realising young people's potential"
 subtitle:
-image: /img/Banner 1.jpg
+image: /img/mainPageBanner.jpg
 blurb:
     heading: Challenge
     text1: "There are two sides to Islington. The leafy mansions of the upper middle classes – and the low-income households in which a third of under-sixteens live. In one in three Islington households, no-one is employed. Over half of single parents in the borough – mostly mothers – are out of work. Just a fifth are in full employment, half the national average. The borough has the highest recorded prevalence of depression and severe mental illness in London."
